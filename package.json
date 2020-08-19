@@ -1,0 +1,24 @@
+{
+  "name": "advanced-creative-coding-with-webgl-shaders",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shivanshmehendiratta/Advanced-Creative-Coding-with-WebGL-Shaders.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shivanshmehendiratta/Advanced-Creative-Coding-with-WebGL-Shaders/issues"
+  },
+  "homepage": "https://github.com/shivanshmehendiratta/Advanced-Creative-Coding-with-WebGL-Shaders#readme",
+  "dependencies": {
+    "canvas-sketch": "^0.7.3",
+    "canvas-sketch-cli": "^1.11.9",
+    "three": "^0.119.1"
+  }
+}
